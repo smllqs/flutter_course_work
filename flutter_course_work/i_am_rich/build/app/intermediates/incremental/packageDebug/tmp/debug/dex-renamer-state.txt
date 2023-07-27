@@ -1,0 +1,4 @@
+#Thu Jul 20 02:50:25 SAST 2023
+base.0=/Users/somelelequse/Documents/GitHub/portfolio/flutter_course_work/i_am_rich/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
